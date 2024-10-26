@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "author": "This is Author1 - 1",
+        "quote": "This is quote of Author1 - 1"
+    },
+    {
+        "id": 2,
+        "author": "This is Author2 - 1",
+        "quote": "This is quote2 - 1"
+    },
+    {
+        "id": 3,
+        "author": "This is Author1 - 2",
+        "quote": "This is quote of Author1 - 2"
+    },
+    {
+        "id": 4,
+        "author": "This is Author2 - 2",
+        "quote": "This is quote2 - 2"
+    },
+    {
+        "id": 5,
+        "author": "This is Author3 - 1",
+        "quote": "This is quote of Author3 - 1"
+    },
+    {
+        "id": 6,
+        "author": "This is Author2 - 3",
+        "quote": "This is quote2 - 3"
+    },
+    {
+        "id": 7,
+        "author": "This is Author1 - 3",
+        "quote": "This is quote of Author1 - 3"
+    },
+    {
+        "id": 8,
+        "author": "This is Author2 - 4",
+        "quote": "This is quote2 - 4"
+    },
+    {
+        "id": 9,
+        "author": "This is Author1 - 4",
+        "quote": "This is quote of Author1 - 4"
+    },
+    {
+        "id": 10,
+        "author": "This is Author2 - 5",
+        "quote": "This is quote2 - 5"
+    },
+    {
+        "id": 11,
+        "author": "This is Author1 - 5",
+        "quote": "This is quote of Author1 - 5"
+    },
+    {
+        "id": 12,
+        "author": "This is Author2 - 6",
+        "quote": "This is quote2 - 6"
+    },
+    {
+        "id": 13,
+        "author": "This is Author1 - 6",
+        "quote": "This is quote of Author1 - 6"
+    },
+    {
+        "id": 14,
+        "author": "This is Author2 - 7",
+        "quote": "This is quote2 - 7"
+    },
+    {
+        "id": 15,
+        "author": "This is Author1 - 7",
+        "quote": "This is quote of Author1 - 7"
+    },
+    {
+        "id": 16,
+        "author": "This is Author2 - 8",
+        "quote": "This is quote2 - 8"
+    }
+]
